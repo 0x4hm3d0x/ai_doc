@@ -9,10 +9,15 @@ from telebot import types
 import os
 
 
-api_key = os.getenv('OPENAI_API_KEY')
+#api_key = os.getenv('OPENAI_API_KEY')
 
 # Set up your OpenAI API key
-openai.api_key = api_key
+openai.api_key = 'sk-crsS840aEsbOmxuw2l5zT3Bl
+
+
+72hsgduei38ejhe73i3neue8ej
+
+bkFJrzGVsURJoH6RNke54AUP'
 
 # Set up your OpenAI API key
 #openai.api_key = ''
