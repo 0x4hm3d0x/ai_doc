@@ -12,12 +12,12 @@ import os
 #api_key = os.getenv('OPENAI_API_KEY')
 
 # Set up your OpenAI API key
-openai.api_key = 'sk-crsS840aEsbOmxuw2l5zT3Bl
+openai.api_key = 'sk-HqDGOGV4Kkg69WA
+
+fwQE9T3BlbkFJn0IXXE
 
 
-72hsgduei38ejhe73i3neue8ej
-
-bkFJrzGVsURJoH6RNke54AUP'
+eHUaOBL2fLakZh'
 
 # Set up your OpenAI API key
 #openai.api_key = ''
