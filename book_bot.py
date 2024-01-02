@@ -23,7 +23,7 @@ bkFJrzGVsURJoH6RNke54AUP'
 #openai.api_key = ''
 
 # Initialize the Telegram Bot
-bot = telebot.TeleBot("6379142019:AAF1mviipa8wo2RQ-FnwUCMQhMb-Lp5EbEM")
+bot = telebot.TeleBot("6864444932:AAFLK8X8b1HG5FPuYjq5ut64XM6all1X844")
 
 # Function to generate text from GPT-3.5-turbo
 def generate_text(prompt):
